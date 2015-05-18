@@ -3688,6 +3688,20 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+        "name": "Learn guitar notes, intervals and scales",  
+        "thumb": "guitar-fretboard/thumb.png",
+        "desc": "Learn notes on fretted instruments, guitar, bass, ukulele, banjo and mandoline.", 
+        "url": "http://guitar.creator.nz/", 
+        "submitter": "todorenko", 
+        "submissionDate": "2015-05-18", 
+        "tags": [
+          "Guitar",
+          "Music Theory",
+          "Local Storage",
+          "No jQuery"
+        ]
     }
 
   ]
